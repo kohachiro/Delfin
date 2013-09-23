@@ -1,0 +1,60 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 4 (0x4)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=CN, ST=BeiJing, L=BeiJing, O=topgame, OU=topgame, CN=topgame/emailAddress=chenxl@topgame.com
+        Validity
+            Not Before: Sep 12 08:58:39 2013 GMT
+            Not After : Sep 12 08:58:39 2014 GMT
+        Subject: C=CN, ST=BeiJing, L=BeiJing, O=fbtitan.topgame.com, OU=fbtitan.topgame.com, CN=fbtitan.topgame.com/emailAddress=chenxl@topgame.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+            RSA Public Key: (1024 bit)
+                Modulus (1024 bit):
+                    00:c7:02:36:56:25:1d:fb:80:c7:6b:c9:d5:4f:9d:
+                    01:58:df:a8:73:75:88:d6:bb:a7:b5:2f:2f:6a:67:
+                    cb:cf:35:c0:4d:d1:dd:b3:b4:11:65:ef:af:80:56:
+                    d8:ee:60:14:6b:92:5b:f9:85:72:7b:95:86:c2:4a:
+                    cd:5c:4e:d4:94:3a:c8:2b:43:5a:80:06:4c:49:19:
+                    1e:5d:42:55:d6:f0:bb:9a:35:7d:77:bb:3d:06:c1:
+                    11:c7:0d:dd:98:67:fe:e2:4d:9c:69:39:e4:b9:a1:
+                    64:85:2a:9a:aa:e0:a5:c8:5d:be:0e:1a:0b:9d:71:
+                    85:46:55:20:59:64:08:ff:ef
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:1F:52:DD:20:E3:34:1B:D5:80:2C:42:60:70:D8:B1:ED:5B:5D:A6:48
+
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication, TLS Web Client Authentication, Microsoft Server Gated Crypto, Netscape Server Gated Crypto
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+    Signature Algorithm: sha1WithRSAEncryption
+        bd:6d:ab:df:cf:1a:cb:ee:64:0d:f4:77:6e:b7:0e:e1:5c:4c:
+        8a:fb:df:47:6b:e0:3b:33:7e:1b:ab:de:e5:53:92:17:e4:df:
+        73:83:66:b2:82:1a:64:53:58:c1:ac:6f:db:73:73:ac:17:d7:
+        35:74:7f:6c:74:8c:02:3a:c3:b8:b5:1f:db:f4:56:33:d4:4e:
+        ba:ad:9f:d4:ca:df:58:43:bc:39:01:27:0f:03:7d:cb:ce:a6:
+        09:ab:50:11:11:3c:81:01:80:a6:94:a8:f8:0f:88:95:fe:be:
+        2b:08:91:8b:d4:23:dd:6c:4a:be:70:36:8d:77:62:fc:8b:36:
+        f2:75
+-----BEGIN CERTIFICATE-----
+MIIDFzCCAoCgAwIBAgIBBDANBgkqhkiG9w0BAQUFADCBijELMAkGA1UEBhMCQ04x
+EDAOBgNVBAgTB0JlaUppbmcxEDAOBgNVBAcTB0JlaUppbmcxEDAOBgNVBAoTB3Rv
+cGdhbWUxEDAOBgNVBAsTB3RvcGdhbWUxEDAOBgNVBAMTB3RvcGdhbWUxITAfBgkq
+hkiG9w0BCQEWEmNoZW54bEB0b3BnYW1lLmNvbTAeFw0xMzA5MTIwODU4MzlaFw0x
+NDA5MTIwODU4MzlaMIGuMQswCQYDVQQGEwJDTjEQMA4GA1UECBMHQmVpSmluZzEQ
+MA4GA1UEBxMHQmVpSmluZzEcMBoGA1UEChMTZmJ0aXRhbi50b3BnYW1lLmNvbTEc
+MBoGA1UECxMTZmJ0aXRhbi50b3BnYW1lLmNvbTEcMBoGA1UEAxMTZmJ0aXRhbi50
+b3BnYW1lLmNvbTEhMB8GCSqGSIb3DQEJARYSY2hlbnhsQHRvcGdhbWUuY29tMIGf
+MA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDHAjZWJR37gMdrydVPnQFY36hzdYjW
+u6e1Ly9qZ8vPNcBN0d2ztBFl76+AVtjuYBRrklv5hXJ7lYbCSs1cTtSUOsgrQ1qA
+BkxJGR5dQlXW8LuaNX13uz0GwRHHDd2YZ/7iTZxpOeS5oWSFKpqq4KXIXb4OGgud
+cYVGVSBZZAj/7wIDAQABo2cwZTAfBgNVHSMEGDAWgBQfUt0g4zQb1YAsQmBw2LHt
+W12mSDA0BgNVHSUELTArBggrBgEFBQcDAQYIKwYBBQUHAwIGCisGAQQBgjcKAwMG
+CWCGSAGG+EIEATAMBgNVHRMBAf8EAjAAMA0GCSqGSIb3DQEBBQUAA4GBAL1tq9/P
+GsvuZA30d263DuFcTIr730dr4Dszfhur3uVTkhfk33ODZrKCGmRTWMGsb9tzc6wX
+1zV0f2x0jAI6w7i1H9v0VjPUTrqtn9TK31hDvDkBJw8DfcvOpgmrUBERPIEBgKaU
+qPgPiJX+visIkYvUI91sSr5wNo13YvyLNvJ1
+-----END CERTIFICATE-----
