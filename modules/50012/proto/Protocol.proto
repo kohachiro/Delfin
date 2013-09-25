@@ -1,0 +1,23 @@
+package proto;
+ 
+option optimize_for = SPEED;
+
+enum MessageHandler {
+  //PolicyFileRequest = 15472;//1014001516;
+  //HttpGetRequest = 18245;//1195725856;
+  //HttpPostRequest = 20559;//1347375956;
+
+  ServerResponse = 0;
+  ErrorResponse = 1; 
+
+  
+  LogoutRequest = 10;
+  LoginRequest = 11;
+  LoginResponse = 12;
+  RegisterRequest = 13;
+  RegisterResponse = 14;
+  AddPlayerRequest = 15;
+  AddPlayerResponse = 16;  
+  
+}
+
