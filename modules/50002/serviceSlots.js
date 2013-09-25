@@ -1,4 +1,4 @@
-var User = require("../../core/User").User;
+var User = require("./User").User;
 var Token = require("../../core/Token").Token;
 var Gold = require("./Gold").Gold;
 var Reward = require("./Reward").Reward;

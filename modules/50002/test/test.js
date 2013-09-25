@@ -14,8 +14,8 @@ var Data = require("protobufjs").protoFromFile("./modules/50002/proto/Data.proto
 //var registerRequestData = new Data.RegisterRequestData({"username":"test","password":"1234"});
 //service.assign(null,comm.protoEncode(registerRequestData,Protocol.RegisterRequest));
 
-//var loginRequestData = new Data.LoginRequestData({"username":"test","password":"1234"});
-//service.assign(null,comm.protoEncode(loginRequestData,Protocol.LoginRequest));
+var loginRequestData = new Data.LoginRequestData({"username":"test","password":"1234"});
+service.assign(null,comm.protoEncode(loginRequestData,Protocol.LoginRequest));
 
 //var addPlayerRequestData = new Data.AddPlayerRequestData({"token":"8IrK6KeV","userid":"hYUzr9YCD6k3KP300eiJ","playername":"jjkk"});
 //service.assign(null,comm.protoEncode(addPlayerRequestData,Protocol.AddPlayerRequest));
